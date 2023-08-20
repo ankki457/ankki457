@@ -3,7 +3,7 @@
 
 - - 🌱 I’m complete My 8 months Python FullStack Web **Development Internship**
 
-<img align="right" src="https://drive.google.com/file/d/1rxT-6YqbLJLPXcRCB-16fyTUnM0dSMuA/view?usp=drivesdk" alt="coding" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankki457](https://github.com/ankki457)
 
