@@ -1,4 +1,4 @@
-![logo](https://github.com/ankki457/ankki457/blob/main/WhatsApp%20Image%202023-08-20%20at%205.17.32%20PM.jpeg)
+
 <h1 align="center">Hi 👋, I'm Ankit Sahu</h1>
 
 <p align="center"><img src="https://www.freepnglogos.com/uploads/welcome-png/welcome-thewonderfulcici-deviantart-32.png" width="400" margine alt="welcome thewonderfulcici deviantart"/></p>
