@@ -16,14 +16,4 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1vHSdBACtVd8EnnE03PByWtOS6BAdPdPX/edit?usp=drivesdk&ouid=108629163637540694654&rtpof=true&sd=true](https://docs.google.com/document/d/1vHSdBACtVd8EnnE03PByWtOS6BAdPdPX/edit?usp=drivesdk&ouid=108629163637540694654&rtpof=true&sd=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankitsa28598946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitsa28598946" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankki-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankki-shah" height="30" width="40" /></a>
-<a href="https://fb.com/ankki457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankki457" height="30" width="40" /></a>
-<a href="https://instagram.com/its__ankki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its__ankki" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ankit-shah457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit-shah457" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahankit457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahankit457" height="30" width="40" /></a>
-</p>
-
 
